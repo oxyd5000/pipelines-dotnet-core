@@ -8,7 +8,7 @@ jobs:
           SourcePath: '$(Build.SourcesDirectory)'
           azureSubscription: 'Visual Studio Professional Subscription(51676ae8-de35-4928-9740-db593767e317)'
           Destination: 'AzureVMs'
-          storage: 'huastrs3ww4vksavm'
+          storage: 'fordjvdevstorage'
           resourceGroup: 'SPCU'
           MachineNames: 'BatchVM'
           vmsAdminUserName: 'hford9'
