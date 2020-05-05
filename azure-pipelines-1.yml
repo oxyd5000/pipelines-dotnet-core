@@ -6,7 +6,7 @@
     storage: 'spcudiag869'
     resourceGroup: 'SPCU'
     MachineNames: 'BatchVM'
-    vmsAdminUserName: 'jvandae5@fordjvdev.onmicrosoft.com'
-    vmsAdminPassword: 'fv6hn3eII'
+    vmsAdminUserName: 'hford9'
+    vmsAdminPassword: 'Alone!ntheD4rk'
     TargetPath: 'c:\temp\BatchFX'
     enableCopyPrerequisites: true
