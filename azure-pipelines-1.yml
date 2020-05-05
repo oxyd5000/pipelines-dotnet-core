@@ -5,10 +5,10 @@ jobs:
     steps:
       - task: AzureFileCopy@4
         inputs:
-          SourcePath: 'Build.Repository.LocalPath'
+          SourcePath: 'System.DefaultWorkingDirectory'
           azureSubscription: 'Visual Studio Professional Subscription(51676ae8-de35-4928-9740-db593767e317)'
           Destination: 'AzureVMs'
-          storage: 'spcudiag869'
+          storage: 'huastrs3ww4vksavm'
           resourceGroup: 'SPCU'
           MachineNames: 'BatchVM'
           vmsAdminUserName: 'hford9'
